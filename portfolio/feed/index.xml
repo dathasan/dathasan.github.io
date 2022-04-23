@@ -29,7 +29,7 @@
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=3548</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<div class="vc-row-container container"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1484239972084 vc_row-has-fill vc_row-o-content-middle vc_row-flex row-stretch"><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="centering-text-header wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 style="color: #ffffff;text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1459861794457" >Express your designer skills.</h1><style data-appended-custom-css="true">#divider-7305626430bb9c72c .lab-divider-content {display: block; width: 5%; border-bottom-color: #ffffff}</style>	<div id="divider-7305626430bb9c72c" class="lab-divider divider-plain type-thin  no-margin-divider">
+										<content:encoded><![CDATA[<div class="vc-row-container container"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1484239972084 vc_row-has-fill vc_row-o-content-middle vc_row-flex row-stretch"><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="centering-text-header wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 style="color: #ffffff;text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1459861794457" >Express your designer skills.</h1><style data-appended-custom-css="true">#divider-5514626438ddb80e6 .lab-divider-content {display: block; width: 5%; border-bottom-color: #ffffff}</style>	<div id="divider-5514626438ddb80e6" class="lab-divider divider-plain type-thin  no-margin-divider">
 		<div class="lab-divider-content"></div>
 	</div>
 	<h3 style="color: #ffffff;text-align: left;font-family:Old Standard TT;font-weight:400;font-style:normal" class="vc_custom_heading" >Build your unique portfolio item with Visual Composer.<br />
@@ -79,29 +79,29 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 	</div>
 <div class="lab-contact-form contact-form ">
 
-	<form action="" method="post" class="contact-form" id="el_626430bba4f75" data-alerts="0" data-alerts-msg="Please fill &quot;%&quot; field." data-privacy-error-msg="You must check privacy policy checkbox in order to submit the form." novalidate>
+	<form action="" method="post" class="contact-form" id="el_626438ddbfde6" data-alerts="0" data-alerts-msg="Please fill &quot;%&quot; field." data-privacy-error-msg="You must check privacy policy checkbox in order to submit the form." novalidate>
 
 		<div class="row">
 
     		<div class="col-sm-6">
 				<div class="form-group labeled-input-row">
-										<label for="el_626430bba4f75_name">Name:</label>
-										<input name="name" id="el_626430bba4f75_name" type="text" placeholder="" data-label="Name">
+										<label for="el_626438ddbfde6_name">Name:</label>
+										<input name="name" id="el_626438ddbfde6_name" type="text" placeholder="" data-label="Name">
 				</div>
     		</div>
 
 			<div class="col-sm-6">
 				<div class="form-group labeled-input-row">
-										<label for="el_626430bba4f75_email">E-mail:</label>
-										<input name="email" id="el_626430bba4f75_email" type="email" placeholder="" data-label="E-mail">
+										<label for="el_626438ddbfde6_email">E-mail:</label>
+										<input name="email" id="el_626438ddbfde6_email" type="email" placeholder="" data-label="E-mail">
 				</div>
 			</div>
 
 			
 			<div class="col-sm-12">
 				<div class="form-group labeled-textarea-row">
-										<label for="el_626430bba4f75_message">Message:</label>
-										<textarea name="message" id="el_626430bba4f75_message" placeholder="" data-label="Message"></textarea>
+										<label for="el_626438ddbfde6_message">Message:</label>
+										<textarea name="message" id="el_626438ddbfde6_message" placeholder="" data-label="Message"></textarea>
 				</div>
 			</div>
 
@@ -126,8 +126,8 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 			<div class="vc_single_image-wrapper   vc_box_border_grey"></div>
 		</figure>
 	</div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div><div class="vc-row-container vc-row-container--stretch-content-no-spaces parent--lab-no-padding-left-right"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid lab-no-padding-left-right vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><style> #el_626430bba76de { height: 300px; } </style><div class="lab-google-map cd-google-map ">
-    <div id="el_626430bba76de"></div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div><div class="vc-row-container vc-row-container--stretch-content-no-spaces parent--lab-no-padding-left-right"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid lab-no-padding-left-right vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><style> #el_626438ddc28a7 { height: 300px; } </style><div class="lab-google-map cd-google-map ">
+    <div id="el_626438ddc28a7"></div>
     <div class="cd-zoom cd-zoom-in hidden"></div>
     <div class="cd-zoom cd-zoom-out hidden"></div>
 </div>
@@ -135,7 +135,7 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 <script type="text/javascript">
 	var labVcMaps = labVcMaps || [];
 	labVcMaps.push( {
-		id: 'el_626430bba76de',
+		id: 'el_626438ddc28a7',
 
 		locations: [{"marker_image":"3655","retina_marker":"yes","latitude":"48.145171","longitude":"11.581915","marker_title":"Offices","marker_description":"<p>These are our offices<\/p>\n"}],
 
