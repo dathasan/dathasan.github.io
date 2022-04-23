@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Works &#8211; Abid Hasan</title>
+	<title>Works › Abid Hasan</title>
 	<atom:link href="https://dathasan.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dathasan.github.io</link>
-	<description>Just another WordPress site</description>
+	<description>Logo and Brand Identity Designer</description>
 	<lastBuildDate>Thu, 14 Apr 2016 12:43:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -29,7 +29,7 @@
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=3548</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<div class="vc-row-container container"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1484239972084 vc_row-has-fill vc_row-o-content-middle vc_row-flex row-stretch"><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="centering-text-header wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 style="color: #ffffff;text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1459861794457" >Express your designer skills.</h1><style data-appended-custom-css="true">#divider-8537626440ce3642f .lab-divider-content {display: block; width: 5%; border-bottom-color: #ffffff}</style>	<div id="divider-8537626440ce3642f" class="lab-divider divider-plain type-thin  no-margin-divider">
+										<content:encoded><![CDATA[<div class="vc-row-container container"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1484239972084 vc_row-has-fill vc_row-o-content-middle vc_row-flex row-stretch"><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="centering-text-header wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 style="color: #ffffff;text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1459861794457" >Express your designer skills.</h1><style data-appended-custom-css="true">#divider-113162644da3411ce .lab-divider-content {display: block; width: 5%; border-bottom-color: #ffffff}</style>	<div id="divider-113162644da3411ce" class="lab-divider divider-plain type-thin  no-margin-divider">
 		<div class="lab-divider-content"></div>
 	</div>
 	<h3 style="color: #ffffff;text-align: left;font-family:Old Standard TT;font-weight:400;font-style:normal" class="vc_custom_heading" >Build your unique portfolio item with Visual Composer.<br />
@@ -79,29 +79,29 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 	</div>
 <div class="lab-contact-form contact-form ">
 
-	<form action="" method="post" class="contact-form" id="el_626440ce3e239" data-alerts="0" data-alerts-msg="Please fill &quot;%&quot; field." data-privacy-error-msg="You must check privacy policy checkbox in order to submit the form." novalidate>
+	<form action="" method="post" class="contact-form" id="el_62644da34a3dd" data-alerts="0" data-alerts-msg="Please fill &quot;%&quot; field." data-privacy-error-msg="You must check privacy policy checkbox in order to submit the form." novalidate>
 
 		<div class="row">
 
     		<div class="col-sm-6">
 				<div class="form-group labeled-input-row">
-										<label for="el_626440ce3e239_name">Name:</label>
-										<input name="name" id="el_626440ce3e239_name" type="text" placeholder="" data-label="Name">
+										<label for="el_62644da34a3dd_name">Name:</label>
+										<input name="name" id="el_62644da34a3dd_name" type="text" placeholder="" data-label="Name">
 				</div>
     		</div>
 
 			<div class="col-sm-6">
 				<div class="form-group labeled-input-row">
-										<label for="el_626440ce3e239_email">E-mail:</label>
-										<input name="email" id="el_626440ce3e239_email" type="email" placeholder="" data-label="E-mail">
+										<label for="el_62644da34a3dd_email">E-mail:</label>
+										<input name="email" id="el_62644da34a3dd_email" type="email" placeholder="" data-label="E-mail">
 				</div>
 			</div>
 
 			
 			<div class="col-sm-12">
 				<div class="form-group labeled-textarea-row">
-										<label for="el_626440ce3e239_message">Message:</label>
-										<textarea name="message" id="el_626440ce3e239_message" placeholder="" data-label="Message"></textarea>
+										<label for="el_62644da34a3dd_message">Message:</label>
+										<textarea name="message" id="el_62644da34a3dd_message" placeholder="" data-label="Message"></textarea>
 				</div>
 			</div>
 
@@ -126,8 +126,8 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 			<div class="vc_single_image-wrapper   vc_box_border_grey"></div>
 		</figure>
 	</div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div><div class="vc-row-container vc-row-container--stretch-content-no-spaces parent--lab-no-padding-left-right"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid lab-no-padding-left-right vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><style> #el_626440ce40ba3 { height: 300px; } </style><div class="lab-google-map cd-google-map ">
-    <div id="el_626440ce40ba3"></div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div><div class="vc-row-container vc-row-container--stretch-content-no-spaces parent--lab-no-padding-left-right"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid lab-no-padding-left-right vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><style> #el_62644da34d46b { height: 300px; } </style><div class="lab-google-map cd-google-map ">
+    <div id="el_62644da34d46b"></div>
     <div class="cd-zoom cd-zoom-in hidden"></div>
     <div class="cd-zoom cd-zoom-out hidden"></div>
 </div>
@@ -135,7 +135,7 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 <script type="text/javascript">
 	var labVcMaps = labVcMaps || [];
 	labVcMaps.push( {
-		id: 'el_626440ce40ba3',
+		id: 'el_62644da34d46b',
 
 		locations: [{"marker_image":"3655","retina_marker":"yes","latitude":"48.145171","longitude":"11.581915","marker_title":"Offices","marker_description":"<p>These are our offices<\/p>\n"}],
 
@@ -210,8 +210,7 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 			<div class="vc_single_image-wrapper   vc_box_border_grey"></div>
 		</figure>
 	</div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div>
-]]></content:encoded>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div><p>The post <a href="https://dathasan.github.io/portfolio/custom-portfolio-layout/">Custom Portfolio Layout</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://dathasan.github.io/portfolio/custom-portfolio-layout/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -226,12 +225,12 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:29:47 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2124</guid>
 
-					<description><![CDATA[Among going manor who did. Do ye is celebrated it sympathize considered. May ecstatic did surprise elegance the ignorant age. Own her miss cold last. It so numerous if he outlived disposal. How but sons mrs lady when. Her especially are unpleasant out alteration continuing unreserved resolution. Hence hopes noisy may china fully and. Am&#8230;]]></description>
+					<description><![CDATA[<p>Among going manor who did. Do ye is celebrated it sympathize considered. May ecstatic did surprise elegance the ignorant age. Own her miss cold last. It so numerous if he outlived disposal. How but sons mrs lady when. Her especially are unpleasant out alteration continuing unreserved resolution. Hence hopes noisy may china fully and. Am&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/adestra/">Adestra</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Among going manor who did. Do ye is celebrated it sympathize considered. May ecstatic did surprise elegance the ignorant age. Own her miss cold last. It so numerous if he outlived disposal. How but sons mrs lady when. Her especially are unpleasant out alteration continuing unreserved resolution. Hence hopes noisy may china fully and. Am it regard stairs branch thirty length afford.</p>
 <p>&nbsp;</p>
 <p>Hence going manor who did. Do ye is celebrated it sympathize considered. May ecstatic did surprise elegance the ignorant age. Own her miss cold last. It so numerous if he outlived disposal. How but sons mrs lady when. Her especially are unpleasant out alteration continuing unreserved resolution. Hence hopes noisy may china fully and. Am it regard stairs branch thirty length afford.</p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://dathasan.github.io/portfolio/adestra/">Adestra</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -244,10 +243,10 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:29:18 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2123</guid>
 
-					<description><![CDATA[May musical arrival beloved luckily adapted him. Shyness mention married son she his started now. Rose if as past near were. To graceful he elegance oh moderate attended entrance pleasure. Vulgar saw fat sudden edward way played either. Thoughts smallest at or peculiar relation breeding produced an. At depart spirit on stairs. She the either&#8230;]]></description>
+					<description><![CDATA[<p>May musical arrival beloved luckily adapted him. Shyness mention married son she his started now. Rose if as past near were. To graceful he elegance oh moderate attended entrance pleasure. Vulgar saw fat sudden edward way played either. Thoughts smallest at or peculiar relation breeding produced an. At depart spirit on stairs. She the either&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/desk-concept/">Desk Concept</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>May musical arrival beloved luckily adapted him. Shyness mention married son she his started now. Rose if as past near were. To graceful he elegance oh moderate attended entrance pleasure. Vulgar saw fat sudden edward way played either. Thoughts smallest at or peculiar relation breeding produced an. At depart spirit on stairs. She the either are wisdom praise things she before. Be mother itself vanity favour do me of. Begin sex was power joy after had walls miles.</p>
-<p>&nbsp;</p>
-]]></content:encoded>
+<p>&nbsp;</p><p>The post <a href="https://dathasan.github.io/portfolio/desk-concept/">Desk Concept</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -260,11 +259,11 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:26:40 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2110</guid>
 
-					<description><![CDATA[Enjoyed minutes related as at on on. Is fanny dried as often me. Goodness as reserved raptures to mistaken steepest oh screened he. Gravity he mr sixteen esteems. Mile home its new way with high told said. Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands&#8230;]]></description>
+					<description><![CDATA[<p>Enjoyed minutes related as at on on. Is fanny dried as often me. Goodness as reserved raptures to mistaken steepest oh screened he. Gravity he mr sixteen esteems. Mile home its new way with high told said. Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/multi-color/">Multi Color</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Enjoyed minutes related as at on on. Is fanny dried as often me. Goodness as reserved raptures to mistaken steepest oh screened he. Gravity he mr sixteen esteems. Mile home its new way with high told said. Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel.</p>
 <p>&nbsp;</p>
-<p>No depending be convinced in unfeeling he. Excellence she unaffected and too sentiments her. Rooms he doors there ye aware in by shall. Education remainder in so cordially. His remainder and own dejection daughters sportsmen. Is easy took he shed to kind.</p>
-]]></content:encoded>
+<p>No depending be convinced in unfeeling he. Excellence she unaffected and too sentiments her. Rooms he doors there ye aware in by shall. Education remainder in so cordially. His remainder and own dejection daughters sportsmen. Is easy took he shed to kind.</p><p>The post <a href="https://dathasan.github.io/portfolio/multi-color/">Multi Color</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -277,9 +276,9 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:26:37 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2109</guid>
 
-					<description><![CDATA[Seitan plaid paleo before they sold out, shabby chic listicle Williamsburg taxidermy fap. Fingerstache pork belly street art Helvetica skateboard Brooklyn. Pitchfork street art mixtape, lo-fi ugh chambray fixie XOXO Truffaut keffiyeh PBR 90&#8217;s Schlitz. Williamsburg heirloom literally, plaid Echo Park 8-bit cliche bicycle rights street art Thundercats meditation tote bag bitters. Kale chips flannel&#8230;]]></description>
-										<content:encoded><![CDATA[<p>Seitan plaid paleo before they sold out, shabby chic listicle Williamsburg taxidermy fap. Fingerstache pork belly street art Helvetica skateboard Brooklyn. Pitchfork street art mixtape, lo-fi ugh chambray fixie XOXO Truffaut keffiyeh PBR 90&#8217;s Schlitz. Williamsburg heirloom literally, plaid Echo Park 8-bit cliche bicycle rights street art Thundercats meditation tote bag bitters. Kale chips flannel cold-pressed tousled. Normcore bitters fap gastropub polaroid. Godard quinoa skateboard authentic photo booth</p>
-]]></content:encoded>
+					<description><![CDATA[<p>Seitan plaid paleo before they sold out, shabby chic listicle Williamsburg taxidermy fap. Fingerstache pork belly street art Helvetica skateboard Brooklyn. Pitchfork street art mixtape, lo-fi ugh chambray fixie XOXO Truffaut keffiyeh PBR 90&#8217;s Schlitz. Williamsburg heirloom literally, plaid Echo Park 8-bit cliche bicycle rights street art Thundercats meditation tote bag bitters. Kale chips flannel&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/ethics-for-design/">Ethics for Design</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Seitan plaid paleo before they sold out, shabby chic listicle Williamsburg taxidermy fap. Fingerstache pork belly street art Helvetica skateboard Brooklyn. Pitchfork street art mixtape, lo-fi ugh chambray fixie XOXO Truffaut keffiyeh PBR 90&#8217;s Schlitz. Williamsburg heirloom literally, plaid Echo Park 8-bit cliche bicycle rights street art Thundercats meditation tote bag bitters. Kale chips flannel cold-pressed tousled. Normcore bitters fap gastropub polaroid. Godard quinoa skateboard authentic photo booth</p><p>The post <a href="https://dathasan.github.io/portfolio/ethics-for-design/">Ethics for Design</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -292,10 +291,10 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:26:23 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2122</guid>
 
-					<description><![CDATA[Kept in sent gave feel will oh it we. Has pleasure procured men laughing shutters nay. Old insipidity motionless continuing law shy partiality. Depending acuteness dependent eat use dejection. Unpleasing astonished discovered not nor shy. Morning hearted now met yet beloved evening. Has and upon his last here must. Arrival entered an if drawing request.&#8230;]]></description>
+					<description><![CDATA[<p>Kept in sent gave feel will oh it we. Has pleasure procured men laughing shutters nay. Old insipidity motionless continuing law shy partiality. Depending acuteness dependent eat use dejection. Unpleasing astonished discovered not nor shy. Morning hearted now met yet beloved evening. Has and upon his last here must. Arrival entered an if drawing request.&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/cloud-inc/">Cloud Inc</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Kept in sent gave feel will oh it we. Has pleasure procured men laughing shutters nay. Old insipidity motionless continuing law shy partiality. Depending acuteness dependent eat use dejection. Unpleasing astonished discovered not nor shy. Morning hearted now met yet beloved evening. Has and upon his last here must.</p>
-<p>Arrival entered an if drawing request. How daughters not promotion few knowledge contented. Yet winter law behind number stairs garret excuse. Minuter we natural conduct gravity if pointed oh no. Am immediate unwilling of attempted admitting disposing it. Handsome opinions on am at it ladyship.</p>
-]]></content:encoded>
+<p>Arrival entered an if drawing request. How daughters not promotion few knowledge contented. Yet winter law behind number stairs garret excuse. Minuter we natural conduct gravity if pointed oh no. Am immediate unwilling of attempted admitting disposing it. Handsome opinions on am at it ladyship.</p><p>The post <a href="https://dathasan.github.io/portfolio/cloud-inc/">Cloud Inc</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -308,10 +307,10 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:26:07 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2121</guid>
 
-					<description><![CDATA[Old unsatiable our now but considered travelling impression. In excuse hardly summer in basket misery. By rent an part need. At wrong of of water those linen. Needed oppose seemed how all. Very mrs shed shew gave you. Oh shutters do removing reserved wandered an. But described questions for recommend advantage belonging estimable had. Pianoforte&#8230;]]></description>
+					<description><![CDATA[<p>Old unsatiable our now but considered travelling impression. In excuse hardly summer in basket misery. By rent an part need. At wrong of of water those linen. Needed oppose seemed how all. Very mrs shed shew gave you. Oh shutters do removing reserved wandered an. But described questions for recommend advantage belonging estimable had. Pianoforte&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/capricho/">Capricho</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Old unsatiable our now but considered travelling impression. In excuse hardly summer in basket misery. By rent an part need. At wrong of of water those linen. Needed oppose seemed how all.</p>
-<p>Very mrs shed shew gave you. Oh shutters do removing reserved wandered an. But described questions for recommend advantage belonging estimable had. Pianoforte reasonable as so am inhabiting. Chatty design remark and his abroad figure but its.</p>
-]]></content:encoded>
+<p>Very mrs shed shew gave you. Oh shutters do removing reserved wandered an. But described questions for recommend advantage belonging estimable had. Pianoforte reasonable as so am inhabiting. Chatty design remark and his abroad figure but its.</p><p>The post <a href="https://dathasan.github.io/portfolio/capricho/">Capricho</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -324,10 +323,10 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:25:51 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2120</guid>
 
-					<description><![CDATA[Much did had call new drew that kept. Limits expect wonder law she. Now has you views woman noisy match money rooms. To up remark it eldest length oh passed. Off because yet mistake feeling has men. Consulted disposing to moonlight ye extremity. Engage piqued in on coming. Advanced extended doubtful he he blessing together.&#8230;]]></description>
+					<description><![CDATA[<p>Much did had call new drew that kept. Limits expect wonder law she. Now has you views woman noisy match money rooms. To up remark it eldest length oh passed. Off because yet mistake feeling has men. Consulted disposing to moonlight ye extremity. Engage piqued in on coming. Advanced extended doubtful he he blessing together.&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/afteroom-chair/">Afteroom Chair</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Much did had call new drew that kept. Limits expect wonder law she. Now has you views woman noisy match money rooms. To up remark it eldest length oh passed. Off because yet mistake feeling has men. Consulted disposing to moonlight ye extremity. Engage piqued in on coming.</p>
-<p>Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through company as. Up arrived no painful between. It declared is prospect an insisted pleasure.</p>
-]]></content:encoded>
+<p>Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through company as. Up arrived no painful between. It declared is prospect an insisted pleasure.</p><p>The post <a href="https://dathasan.github.io/portfolio/afteroom-chair/">Afteroom Chair</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -340,11 +339,11 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:25:14 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2119</guid>
 
-					<description><![CDATA[Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. Client Needs Greatly hearted has who believe. Drift allow green son walls years for blush.&#8230;]]></description>
+					<description><![CDATA[<p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. Client Needs Greatly hearted has who believe. Drift allow green son walls years for blush.&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/piece-of-cake/">Piece of Cake</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail.</p>
 <h4>Client Needs</h4>
-<p>Greatly hearted has who believe. Drift allow green son walls years for blush. Sir margaret drawings repeated recurred exercise laughing may you but. Do repeated whatever to welcomed absolute no. Fat surprise although outlived and informed shy dissuade property. Musical by me through he drawing savings an. No we stand avoid decay heard mr. Common so wicket appear to sudden worthy on. Shade of offer ye whole stood hoped.</p>
-]]></content:encoded>
+<p>Greatly hearted has who believe. Drift allow green son walls years for blush. Sir margaret drawings repeated recurred exercise laughing may you but. Do repeated whatever to welcomed absolute no. Fat surprise although outlived and informed shy dissuade property. Musical by me through he drawing savings an. No we stand avoid decay heard mr. Common so wicket appear to sudden worthy on. Shade of offer ye whole stood hoped.</p><p>The post <a href="https://dathasan.github.io/portfolio/piece-of-cake/">Piece of Cake</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -357,11 +356,11 @@ Thousands of users love Kalium for it's functionality and minimalism.</h3></div>
 		<pubDate>Thu, 12 Mar 2015 14:24:45 +0000</pubDate>
 				<guid isPermaLink="false">http://demo-content.kaliumtheme.com/agency/?post_type=portfolio&#038;p=2118</guid>
 
-					<description><![CDATA[Husbands ask repeated resolved but laughter debating. She end cordial visitor noisier fat subject general picture. Or if offering confined entrance no. Nay rapturous him see something residence. Highly talked do so vulgar. Her use behaved spirits and natural attempt say feeling. Exquisite mr incommode immediate he something ourselves it of. Law conduct yet chiefly&#8230;]]></description>
+					<description><![CDATA[<p>Husbands ask repeated resolved but laughter debating. She end cordial visitor noisier fat subject general picture. Or if offering confined entrance no. Nay rapturous him see something residence. Highly talked do so vulgar. Her use behaved spirits and natural attempt say feeling. Exquisite mr incommode immediate he something ourselves it of. Law conduct yet chiefly&#8230;</p>
+<p>The post <a href="https://dathasan.github.io/portfolio/bergenfield/">Bergenfield</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Husbands ask repeated resolved but laughter debating. She end cordial visitor noisier fat subject general picture. Or if offering confined entrance no. Nay rapturous him see something residence. Highly talked do so vulgar. Her use behaved spirits and natural attempt say feeling. Exquisite mr incommode immediate he something ourselves it of. Law conduct yet chiefly beloved examine village proceed.</p>
 <p>&nbsp;</p>
-<p>Spoke as as other again ye. Hard on to roof he drew. So sell side ye in mr evil. Longer waited mr of nature seemed. Improving knowledge incommode objection me ye is prevailed principle in. Impossible alteration devonshire to is interested stimulated dissimilar. To matter esteem polite do if.</p>
-]]></content:encoded>
+<p>Spoke as as other again ye. Hard on to roof he drew. So sell side ye in mr evil. Longer waited mr of nature seemed. Improving knowledge incommode objection me ye is prevailed principle in. Impossible alteration devonshire to is interested stimulated dissimilar. To matter esteem polite do if.</p><p>The post <a href="https://dathasan.github.io/portfolio/bergenfield/">Bergenfield</a> first appeared on <a href="https://dathasan.github.io">Abid Hasan</a>.</p>]]></content:encoded>
 					
 		
 		
