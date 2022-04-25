@@ -3,67 +3,67 @@
 	<url>
 		<loc>https://www.dathasan.github.io</loc>
 		<priority>1.00</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/wp-json</loc>
 		<priority>0.80</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio</loc>
 		<priority>0.80</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/contact</loc>
 		<priority>0.80</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/blog</loc>
 		<priority>0.80</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/themeforest</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/nightlife</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/music</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/laborator</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/kalium</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/envato</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/tag/design</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio-category/print</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio-category/photography</loc>
@@ -73,7 +73,7 @@
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio-category/logo</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio-category/digital-art</loc>
@@ -83,7 +83,7 @@
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio-category/branding</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/wood-vase</loc>
@@ -101,6 +101,11 @@
 		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
+		<loc>https://www.dathasan.github.io/portfolio/trumpet-board-game</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-26</lastmod>
+	</url>
+	<url>
 		<loc>https://www.dathasan.github.io/portfolio/toronto-maps</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-04-24</lastmod>
@@ -109,6 +114,11 @@
 		<loc>https://www.dathasan.github.io/portfolio/too-good-to-be-buried</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/tinfoil</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/the-manual</loc>
@@ -123,7 +133,7 @@
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/spirit-space-logo-business-card</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/ryuji-mitani</loc>
@@ -171,6 +181,11 @@
 		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
+		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-26</lastmod>
+	</url>
+	<url>
 		<loc>https://www.dathasan.github.io/portfolio/logos</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-04-24</lastmod>
@@ -178,12 +193,17 @@
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/logofolio</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-25</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/howdy-owls</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/foot</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/focus-eyewear</loc>
@@ -273,52 +293,52 @@
 	<url>
 		<loc>https://www.dathasan.github.io/category/ux</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/uncategorized</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/resources</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/photography</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/music</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/magazine</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/gui</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/general</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/everyday-life</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/category/design-dev</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/portfolio/page/4</loc>
