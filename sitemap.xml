@@ -3,285 +3,75 @@
 	<url>
 		<loc>https://www.dathasan.github.io</loc>
 		<priority>1.00</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/wp-json</loc>
-		<priority>0.80</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio</loc>
-		<priority>0.80</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/contact</loc>
-		<priority>0.80</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
 		<loc>https://www.dathasan.github.io/blog</loc>
 		<priority>0.80</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/themeforest</loc>
+		<loc>https://www.dathasan.github.io/contact</loc>
+		<priority>0.80</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio</loc>
+		<priority>0.80</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/category/design-dev</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/nightlife</loc>
+		<loc>https://www.dathasan.github.io/category/everyday-life</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/music</loc>
+		<loc>https://www.dathasan.github.io/category/general</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/laborator</loc>
+		<loc>https://www.dathasan.github.io/category/gui</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/kalium</loc>
+		<loc>https://www.dathasan.github.io/category/magazine</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/envato</loc>
+		<loc>https://www.dathasan.github.io/category/music</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/tag/design</loc>
+		<loc>https://www.dathasan.github.io/category/photography</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/print</loc>
+		<loc>https://www.dathasan.github.io/category/resources</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/photography</loc>
+		<loc>https://www.dathasan.github.io/category/uncategorized</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/logo</loc>
+		<loc>https://www.dathasan.github.io/category/ux</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/digital-art</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/branding</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/wood-vase</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/web-press</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/tst</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/trumpet-board-game</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/toronto-maps</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/too-good-to-be-buried</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/tinfoil</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/the-manual</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/tgd-mag</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/taste-of-the-upper-west-side</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/spirit-space-logo-business-card</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/ryuji-mitani</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/random-people-quotes</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/raincup</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/plywood-chair</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/piece-of-cake</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/o3-cabinets</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/multi-color</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/mjo%cc%88lk-books</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals-branding</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/logos</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/logofolio</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-25</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/howdy-owls</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/foot</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/focus-eyewear</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/florian-series</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/ethics-for-design</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/eskimo</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/desk-concept</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/custom-portfolio-layout</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/cloud-inc</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/capricho</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/bergenfield</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/bathroom</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/back-to-basic</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/amnesty-international</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/altruchair</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/afteroom-chair</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/afira-quartet</loc>
+		<loc>https://www.dathasan.github.io/portfolio/90s-package</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-04-24</lastmod>
 	</url>
@@ -291,62 +81,237 @@
 		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio/90s-package</loc>
+		<loc>https://www.dathasan.github.io/portfolio/afira-quartet</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/ux</loc>
+		<loc>https://www.dathasan.github.io/portfolio/afteroom-chair</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/uncategorized</loc>
+		<loc>https://www.dathasan.github.io/portfolio/altruchair</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/resources</loc>
+		<loc>https://www.dathasan.github.io/portfolio/amnesty-international</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/photography</loc>
+		<loc>https://www.dathasan.github.io/portfolio/back-to-basic</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/music</loc>
+		<loc>https://www.dathasan.github.io/portfolio/bathroom</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/magazine</loc>
+		<loc>https://www.dathasan.github.io/portfolio/bergenfield</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/gui</loc>
+		<loc>https://www.dathasan.github.io/portfolio/capricho</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/general</loc>
+		<loc>https://www.dathasan.github.io/portfolio/cloud-inc</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/everyday-life</loc>
+		<loc>https://www.dathasan.github.io/portfolio/custom-portfolio-layout</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/category/design-dev</loc>
+		<loc>https://www.dathasan.github.io/portfolio/desk-concept</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-04-27</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio/page/4</loc>
+		<loc>https://www.dathasan.github.io/portfolio/eskimo</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/ethics-for-design</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/florian-series</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/focus-eyewear</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/foot</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/howdy-owls</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/logofolio</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-25</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/logos</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals-branding</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/mjo%cc%88lk-books</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/multi-color</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/o3-cabinets</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/piece-of-cake</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/plywood-chair</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/raincup</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/random-people-quotes</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/ryuji-mitani</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/spirit-space-logo-business-card</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/taste-of-the-upper-west-side</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/tgd-mag</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/the-manual</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/tinfoil</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/too-good-to-be-buried</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/toronto-maps</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/trumpet-board-game</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/tst</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/web-press</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/wood-vase</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio-category/branding</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio-category/digital-art</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio-category/logo</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio-category/photography</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio-category/print</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/tag/kalium</loc>
+		<priority>0.60</priority>
+		<lastmod>2022-04-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.dathasan.github.io/portfolio/page/2</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-04-24</lastmod>
 	</url>
@@ -356,7 +321,7 @@
 		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>https://www.dathasan.github.io/portfolio/page/2</loc>
+		<loc>https://www.dathasan.github.io/portfolio/page/4</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-04-24</lastmod>
 	</url>
