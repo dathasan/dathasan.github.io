@@ -1,333 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://www.dathasan.github.io</loc>
-		<priority>1.00</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/blog</loc>
-		<priority>0.80</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/contact</loc>
-		<priority>0.80</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio</loc>
-		<priority>0.80</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/design-dev</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/everyday-life</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/general</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/gui</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/magazine</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/music</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/photography</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/resources</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/uncategorized</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/category/ux</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/90s-package</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/adestra</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/afira-quartet</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/afteroom-chair</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/altruchair</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/amnesty-international</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/back-to-basic</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/bathroom</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/bergenfield</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/capricho</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/cloud-inc</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/custom-portfolio-layout</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/desk-concept</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/eskimo</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/ethics-for-design</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/florian-series</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/focus-eyewear</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/foot</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/howdy-owls</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/logofolio</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-25</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/logos</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/matthiola-botanicals-branding</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/mjo%cc%88lk-books</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/multi-color</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/o3-cabinets</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/piece-of-cake</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/plywood-chair</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/raincup</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/random-people-quotes</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/ryuji-mitani</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/spirit-space-logo-business-card</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/taste-of-the-upper-west-side</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/tgd-mag</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/the-manual</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/tinfoil</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/too-good-to-be-buried</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/toronto-maps</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/trumpet-board-game</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/tst</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/web-press</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/wood-vase</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/branding</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/digital-art</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/logo</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/photography</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/print</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/tag/kalium</loc>
-		<priority>0.60</priority>
-		<lastmod>2022-04-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/page/2</loc>
-		<priority>0.40</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/page/3</loc>
-		<priority>0.40</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio/page/4</loc>
-		<priority>0.40</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
-	<url>
-		<loc>https://www.dathasan.github.io/portfolio-category/print/page/2</loc>
-		<priority>0.20</priority>
-		<lastmod>2022-04-24</lastmod>
-	</url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://dathasan.github.io/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/contact/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio-category/branding/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio-category/logo/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio-category/print/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/taste-of-the-upper-west-side/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/foot/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/tinfoil/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/trumpet-board-game/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/matthiola-botanicals/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/portfolio/spirit-space-logo-business-card/</loc>
+  <lastmod>2022-04-29T16:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/technology/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/gadget/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/accessories/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/electronics/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/monitors/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/fashion/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/gadgets/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-phone-accessories-you-should-buy-in-2022/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/author/root/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/01/31/the-best-phone-accessories-you-should-buy/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-gaming-headsets-for-professional-gamers/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-usb-bluetooth-adapters-for-your-wireless-devices/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-gaming-keyboards-in-2022-to-level-up-your-gaming-experience/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-amd-motherboard-to-suit-any-computer-needs/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/budget-friendly-laptop-coolers-to-increase-performance-and-longevity/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-amd-motherboard-to-suit-any-computer-needs-2/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-amd-motherboard-to-suit-any-computer-needs-3/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-amd-motherboard-to-suit-any-computer-needs-4/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/page/2/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/page/3/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/page/5/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/16/the-best-usb-bluetooth-adapters-for-your-wireless-devices-4/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/category/accessories-technology/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/16/the-best-iphone-accessories-you-should-buy/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/16/take-a-look-at-2022s-best-clock-radios/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/15/the-best-usb-bluetooth-adapters-for-your-wireless-devices-3/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/blog/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/best-tablets-for-all-your-multitasking-needs-4/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/best-tablets-for-all-your-multitasking-needs-3/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/best-monitor-for-designers-under-1500/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/best-tablets-for-all-your-multitasking-needs-2/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/best-tablets-for-all-your-multitasking-needs/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/15/under-1500-the-best-monitor-for-designers/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/10-best-smartwatch-to-buy-this-year-for-your-love-ones/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/2022/02/11/the-best-usb-bluetooth-adapters-for-your-wireless-devices-2/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/author/root/page/2/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/author/root/page/3/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/page/4/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/blog/page/2/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://dathasan.github.io/blog/blog/page/3/</loc>
+  <lastmod>2022-03-12T13:18:43+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>
