@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dathasan.github.io/sitemap.xml

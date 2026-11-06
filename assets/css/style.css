@@ -1,0 +1,54 @@
+:root{--ink:#444;--muted:#777;--accent:#636444;--bg:#fff;--line:#e6e6e0;--wrap:1040px;--font:"Inter",Helvetica,Arial,sans-serif}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font:400 16px/1.6 var(--font);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased;display:flex;flex-direction:column;min-height:100vh}
+main{flex:1}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);position:relative}
+.bar{display:flex;align-items:center;justify-content:space-between;height:72px}
+.brand .logo{height:44px;width:auto}
+nav ul{display:flex;gap:28px;list-style:none;margin:0;padding:0}
+nav a{color:var(--ink);font-size:13px;text-transform:uppercase;letter-spacing:.1em}
+nav a[aria-current=page],nav a:hover{color:var(--accent);text-decoration:none}
+.menu-btn{display:none;background:none;border:0;font:inherit;color:var(--ink);cursor:pointer;text-transform:uppercase;letter-spacing:.1em;font-size:13px}
+.hero{padding:120px 0 80px;text-align:center}
+.hero h1{font-size:clamp(34px,6vw,64px);line-height:1.25;font-weight:700;letter-spacing:-.02em;margin:0;color:#2b2b2b}
+.typed{color:var(--accent);display:inline-block;min-height:1.2em}
+.page-title{font-size:clamp(30px,4vw,44px);font-weight:700;letter-spacing:-.02em;color:#2b2b2b;margin:0 0 12px;line-height:1.15}
+.lead{font-size:18px;color:var(--muted);max-width:640px;margin:0 0 40px}
+.list-section{padding:0 0 96px}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 24px;justify-content:center}
+.filters button{font:inherit;font-size:12px;text-transform:uppercase;letter-spacing:.1em;padding:8px 16px;background:none;border:1px solid var(--line);color:var(--ink);cursor:pointer;border-radius:999px}
+.filters button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.works{list-style:none;margin:0;padding:0;border-bottom:1px solid var(--line)}
+.works li{position:relative;border-top:1px solid var(--line)}
+.works li[hidden]{display:none}
+.works a{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:22px 0;color:var(--ink);text-decoration:none;transition:color .2s,padding .2s}
+.works a:hover{color:var(--accent);padding-left:10px;text-decoration:none}
+.works .t{font-size:clamp(18px,2.6vw,28px);font-weight:600;letter-spacing:-.01em}
+.works .k{font-size:12px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);white-space:nowrap}
+.works .preview{position:absolute;right:120px;top:50%;width:200px;height:140px;object-fit:cover;transform:translateY(-50%) scale(.96);opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;border:1px solid var(--line)}
+.works li:hover .preview{opacity:1;transform:translateY(-50%) scale(1)}
+.crumb{font-size:13px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin:0 0 12px}
+.project{padding:56px 0 96px}
+.cover{border:1px solid var(--line);margin:8px 0 0}
+.pager{display:flex;justify-content:space-between;gap:16px;margin-top:56px;padding-top:24px;border-top:1px solid var(--line);font-size:14px}
+.contact-box{padding:80px 0;max-width:680px}
+.mail{font-size:clamp(20px,3vw,28px);font-weight:600}
+footer{border-top:1px solid var(--line);padding:28px 0;font-size:13px;color:var(--muted)}
+footer .wrap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px}
+footer .social{display:flex;gap:18px;flex-wrap:wrap}
+footer .social a{color:var(--ink);text-transform:uppercase;letter-spacing:.08em;font-size:12px}
+footer .social a:hover{color:var(--accent)}
+@media (max-width:760px){
+ .menu-btn{display:block}
+ nav{display:none;position:absolute;top:72px;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);z-index:5}
+ nav.open{display:block}
+ nav ul{flex-direction:column;gap:0}
+ nav a{display:block;padding:16px 24px;border-top:1px solid var(--line)}
+ .works .preview{display:none}
+ .hero{padding:80px 0 56px}
+}
