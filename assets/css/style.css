@@ -86,3 +86,76 @@ footer .social a:hover{color:var(--accent)}
  nav a{display:block;padding:16px 24px;border-top:1px solid var(--line)}
  .hero{padding:80px 0 56px}
 }
+/* Contact Page Specific Styles */
+.contact-hero {
+  padding: 120px 0 100px;
+  text-align: center;
+}
+
+.contact-container {
+  max-width: 640px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-headline {
+  font-size: clamp(38px, 6vw, 68px);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: #2b2b2b;
+  margin: 0 0 16px;
+  line-height: 1.2;
+}
+
+.contact-reply {
+  font-size: 17px;
+  color: var(--muted);
+  margin: 0 0 36px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #22c55e; /* Subtle online/availability green dot */
+  display: inline-block;
+}
+
+.contact-action {
+  margin-bottom: 32px;
+}
+
+.contact-social {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.contact-social a {
+  color: var(--muted);
+  transition: color 0.2s ease;
+}
+
+.contact-social a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.contact-social .sep {
+  color: var(--line);
+  font-size: 12px;
+}
+
+@media (max-width: 760px) {
+  .contact-hero {
+    padding: 80px 0 60px;
+  }
+}
