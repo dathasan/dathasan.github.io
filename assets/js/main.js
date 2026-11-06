@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded',function(){
   f.forEach(function(b){b.addEventListener('click',function(){
     f.forEach(function(x){x.setAttribute('aria-pressed',x===b)});
     var c=b.dataset.filter;
-    document.querySelectorAll('.works li').forEach(function(li){li.hidden=!(c==='all'||li.dataset.cat===c)})})});
+    document.querySelectorAll('.tile').forEach(function(t){t.hidden=!(c==='all'||t.dataset.cat===c)})})});
   var el=document.getElementById('typed');
   if(el){
     var words=el.dataset.words.split('|'),si=0,ci=0,del=false,cur='|';
